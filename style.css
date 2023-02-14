@@ -1,25 +1,40 @@
-<style>
+body {
 
+    background-color: #D2E8F0;
 
-    .fontes {
+}
 
-    font-family: cursive;
-    color: aqua;
+.descrição,
+.meunome {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+}
 
-    }
+.sobre {}
 
+em {
+    text-decoration: underline;
+    color: #52050A;
 
+}
 
+h2{
+    color: #d62828;
+}
 
+.git {
+    font-size: 20px;
+}
 
+.unix-e-shell {
+    font-size: 18px;
+}
 
+.github {
+    font-size: 16px;
+}
 
-
-
-
-
-
-
-
-
-</style>
+.html {
+    font-size: 14px;
+}
