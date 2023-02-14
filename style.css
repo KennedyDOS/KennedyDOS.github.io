@@ -1,14 +1,15 @@
+
 body {
 
     background-color: #D2E8F0;
 
 }
 
-.descrição,
-.meunome {
+.descrição,.meunome {
     font-family: 'Courier New', Courier, monospace;
     color: blue;
     text-align: center;
+    background-color: #baf121; height: 30px;
 }
 
 .sobre {}
