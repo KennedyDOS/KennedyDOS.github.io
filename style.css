@@ -1,4 +1,6 @@
-
+*{
+    
+}
 body {
 
     background-color: #D2E8F0;
@@ -12,7 +14,6 @@ body {
     background-color: #baf121; height: 30px;
 }
 
-.sobre {}
 
 em {
     text-decoration: underline;
