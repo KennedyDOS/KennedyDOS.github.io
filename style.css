@@ -7,13 +7,56 @@ body {
 
 }
 
-.descrição,.meunome {
+.topo{
+    border: 3px solid yellow;
+}
+
+.descricao,.meunome, .img {
     font-family: 'Courier New', Courier, monospace;
     color: blue;
     text-align: center;
-    background-color: #baf121; height: 30px;
+      
+}
+ 
+.sobre{
+    position: absolute;
+    left: 335px;
+    top: 200px;    
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    
 }
 
+.descricao{
+    position: absolute;
+    left: 335px;
+    top: 150px;
+}
+
+.img{
+    
+    padding: 10px; 
+    background: green;
+}
+
+.habilidades{
+    position: absolute;
+    margin: auto;
+}
+
+.link{
+    position: absolute;
+    top: 550px;
+}
+
+.par{
+
+}
+
+.impar{
+    
+}
 
 em {
     text-decoration: underline;
