@@ -15,6 +15,8 @@ body {
     font-family: 'Courier New', Courier, monospace;
     color: blue;
     text-align: center;
+    
+    
       
 }
  
@@ -24,7 +26,7 @@ body {
     top: 200px;    
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 18px;
     
 }
 
@@ -47,22 +49,26 @@ body {
 
 .link{
     position: absolute;
-    top: 550px;
+    top: 580px;
 }
 
 .par{
 
 }
 
+
+
 .impar{
+    width: 55px;
+    height: 20px;
+    padding: 1px; 
+    background-color: orange;
+    border-radius: 13px 13px;
+    display: inline-block;
+    
     
 }
 
-em {
-    text-decoration: underline;
-    color: #52050A;
-
-}
 
 h2{
     color: #d62828;
